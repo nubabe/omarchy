@@ -1,25 +1,25 @@
 # Omarchy core package list installed via install/packages.sh
 # This file is also used by the ISO builder when determining needs
 
-1password-beta
-1password-cli
+# 1password-beta
+# 1password-cli
 alacritty
 asdcontrol-git
-avahi
+# avahi
 bash-completion
 bat
 blueberry
 brightnessctl
 btop
-cargo
-clang
+# cargo
+# clang
 cups
 cups-browsed
 cups-filters
 cups-pdf
-docker
-docker-buildx
-docker-compose
+# docker
+# docker-buildx
+# docker-compose
 dust
 evince
 eza
@@ -28,16 +28,16 @@ fcitx5
 fcitx5-gtk
 fcitx5-qt
 fd
-ffmpegthumbnailer
+# ffmpegthumbnailer
 fontconfig
 fzf
 github-cli
-gnome-calculator
+# gnome-calculator
 gnome-keyring
 gnome-themes-extra
 gum
 gvfs-mtp
-gvfs-smb
+# gvfs-smb
 hypridle
 hyprland
 hyprland-qtutils
@@ -48,34 +48,34 @@ hyprsunset
 imagemagick
 impala
 imv
-inetutils
+iputils
 iwd
 jq
 kdenlive
 kvantum-qt5
-lazydocker
+# lazydocker
 lazygit
 less
-libyaml
+# libyaml
 libqalculate
 libreoffice
-llvm
-localsend
-luarocks
+# llvm
+# localsend
+# luarocks
 mako
 man
-mariadb-libs
-mise
-mpv
-nautilus
+# mariadb-libs
+# mise
+# mpv
+# nautilus
 noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
-nss-mdns
+# nss-mdns
 nvim
 obs-studio
-obsidian
+# obsidian
 omarchy-chromium
 omarchy-lazyvim
 pamixer
@@ -84,19 +84,19 @@ playerctl
 plocate
 plymouth
 polkit-gnome
-postgresql-libs
+# postgresql-libs
 power-profiles-daemon
 python-gobject
 python-poetry-core
 python-terminaltexteffects
 qt5-wayland
 ripgrep
-satty
-signal-desktop
+# satty
+# signal-desktop
 slurp
-spotify
+# spotify
 starship
-sushi
+# sushi
 swaybg
 swayosd
 system-config-printer
@@ -105,10 +105,10 @@ tree-sitter-cli
 ttf-cascadia-mono-nerd
 ttf-ia-writer
 ttf-jetbrains-mono-nerd
-typora
+# typora
 tzupdate
 ufw
-ufw-docker
+# ufw-docker
 unzip
 uwsm
 walker-bin
@@ -124,8 +124,62 @@ wl-screenrec
 woff2-font-awesome
 xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
-xmlstarlet
+# xmlstarlet
 xournalpp
 yaru-icon-theme
 yay
 zoxide
+
+
+# own apps
+
+sudo
+git
+base
+base-devel
+linux
+linux-headers
+linux-firmware
+linux-zen
+linux-zen-headers
+intel-ucode
+grub
+efibootmgr
+zsh
+zsh-autosuggestions
+zsh-completions
+zsh-syntax-highlighting
+wget
+tree
+vi
+kdeconnect
+solaar
+telegram-desktop
+keepassxc
+gimp
+vlc
+leiningen
+bind
+usbutils
+wakeonlan
+npm
+shfmt
+texlive
+libcdio
+mediainfo
+rclone
+fuse-exfat
+ansible
+nmap
+python-beautifulsoup
+geckodriver
+python-black
+python-pyflakes
+python-lsp-server
+vlc-plugin-arch
+easyeffects
+lsp-plugins-lv2
+geogebra
+dosfstools
+jdk-openjdk
+jdk21-openjdk

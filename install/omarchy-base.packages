@@ -171,12 +171,12 @@ rclone
 fuse-exfat
 ansible
 nmap
-python-beautifulsoup
+# python-beautifulsoup
 geckodriver
 python-black
 python-pyflakes
 python-lsp-server
-vlc-plugin-arch
+# vlc-plugin-arch
 easyeffects
 lsp-plugins-lv2
 geogebra

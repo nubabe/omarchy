@@ -1,0 +1,12 @@
+# packages to be installed from the AUR
+
+brave-bin
+bluej
+exercism-bin
+freeshow-bin
+hyprmon-bin
+java21-openjfx-bin
+mixing-station
+opensoundmeter
+
+# packages added by the install script

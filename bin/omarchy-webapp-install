@@ -68,4 +68,5 @@ chmod +x "$DESKTOP_FILE"
 
 if [[ $INTERACTIVE_MODE == true ]]; then
   echo -e "You can now find $APP_NAME using the app launcher (SUPER + SPACE)\n"
+  echo "omarchy-webapp-install \"$APP_NAME\" \"$APP_URL\" \"$ICON_REF\"" >> $OMARCHY_PATH/install/packaging/webapps.sh
 fi

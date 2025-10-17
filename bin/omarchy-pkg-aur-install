@@ -19,6 +19,7 @@ pkg_names=$(yay -Slqa | fzf "${fzf_args[@]}")
 if [[ -n "$pkg_names" ]]; then
   # Convert newline-separated selections to space-separated for yay
   echo "$pkg_names" | tr '\n' ' ' | xargs yay -S --noconfirm
+  echo "$pkg_names" >> $OMARCHY_PATH/install/omarchy-aur.packages
   sudo updatedb
   omarchy-show-done
 fi

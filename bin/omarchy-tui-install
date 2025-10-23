@@ -54,4 +54,5 @@ chmod +x "$DESKTOP_FILE"
 
 if [ "$#" -ne 4 ]; then
   echo -e "You can now find $APP_NAME using the app launcher (SUPER + SPACE)\n"
+  echo "omarchy-tui-install \"$APP_NAME\" \"$APP_EXEC\" $WINDOW_STYLE $ICON_URL" >> $OMARCHY_PATH/install/packaging/tuis.sh
 fi

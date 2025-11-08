@@ -123,6 +123,7 @@ wl-clip-persist
 wl-clipboard
 wl-screenrec
 woff2-font-awesome
+wtype
 xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
 xournalpp

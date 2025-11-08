@@ -1,152 +1,189 @@
 # Omarchy core package list installed via install/packages.sh
 # This file is also used by the ISO builder when determining needs
 
+# 1password-beta
+# 1password-cli
 alacritty
-ansible
 asdcontrol-git
+# avahi
 bash-completion
 bat
-bind-tools
 blueberry
 brightnessctl
 btop
-cava
+# cargo
 clang
 cups
 cups-browsed
 cups-filters
 cups-pdf
-curl
+# docker
+# docker-buildx
+# docker-compose
 dust
-easyeffects
+# evince
 eza
 fastfetch
+# fcitx5
+# fcitx5-gtk
+# fcitx5-qt
 fd
-fuse-exfat
+# ffmpegthumbnailer
+# fontconfig
 fzf
-geckodriver
-geeqie
-geogebra
-gimp
 github-cli
+# gnome-calculator
 gnome-keyring
 gnome-themes-extra
 gum
 gvfs-mtp
+# gvfs-smb
 hypridle
 hyprland
 hyprland-qtutils
 hyprlock
 hyprpicker
-hyprpolkitagent
 hyprshot
 hyprsunset
 imagemagick
 impala
-iputils
+# imv
+# inetutils
 iwd
-jdk-openjdk
-jdk21-openjdk
 jq
-kdeconnect
 kdenlive
-keepassxc
 kvantum-qt5
+# lazydocker
 lazygit
-leiningen
-libcdio
+# less
+# libyaml
 libqalculate
 libreoffice
+# llvm
 localsend
-lsp-plugins-lv2
+# luarocks
 mako
 man
-maven
-mediainfo
+# mariadb-libs
 mise
-nvim
-nmap
+# mpv
+# nautilus
 noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
+# nss-mdns
+nvim
 obs-studio
+# obsidian
 omarchy-chromium
 omarchy-lazyvim
 pamixer
-pipewire
-pipewire-pulse
-pipewire-alsa
-pipewire-jack
+# pinta
 playerctl
 plocate
 plymouth
+# polkit-gnome
+# postgresql-libs
 power-profiles-daemon
-python-beautifulsoup4
-python-black
-python-lsp-server
-python-pyflakes
+# python-gobject
+# python-poetry-core
 python-terminaltexteffects
 qt5-wayland
 ripgrep
 satty
-shfmt
+# signal-desktop
 slurp
-solaar
+# spotify
 starship
-stow
+# sushi
 swaybg
 swayosd
 system-config-printer
-telegram-desktop
-texlive
 tldr
-tree
 tree-sitter-cli
 ttf-cascadia-mono-nerd
 ttf-ia-writer
 ttf-jetbrains-mono-nerd
+# typora
+# tzupdate
 ufw
+# ufw-docker
 unzip
-usbutils
 uwsm
-vlc
-wakeonlan
 walker-bin
 waybar
 wf-recorder
-wget
 whois
+# wireless-regdb
 wiremix
 wireplumber
 wl-clip-persist
 wl-clipboard
 wl-screenrec
 woff2-font-awesome
-wtype
 xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
+# xmlstarlet
 xournalpp
 yaru-icon-theme
 yay
 zoxide
-zsh
-zsh-autosuggestions
-zsh-completions
-zsh-syntax-highlighting
 
-# absolute basics
+# added by nubabe
+ansible
 base
 base-devel
+bind-tools
+cava
+curl
+easyeffects
 efibootmgr
+fuse-exfat
+geckodriver
+geeqie
+geogebra
+gimp
 git
 grub
+hyprpolkitagent
 intel-ucode
+iputils
+jdk-openjdk
+jdk21-openjdk
+kdeconnect
+leiningen
+libcdio
 linux
 linux-firmware
 linux-headers
 linux-zen
 linux-zen-headers
+lsp-plugins-lv2
+maven
+mediainfo
+nmap
+pipewire
+pipewire-pulse
+pipewire-alsa
+pipewire-jack
+python-beautifulsoup4
+python-black
+python-lsp-server
+python-pyflakes
+shfmt
+stow
 sudo
+telegram-desktop
+texlive
+tree
+usbutils
+vlc
+wakeonlan
+wtype
+zsh
+zsh-autosuggestions
+zsh-completions
+zsh-syntax-highlighting
 
 # packages added by the install script

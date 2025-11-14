@@ -72,7 +72,7 @@ mako
 man
 # mariadb-libs
 mise
-# mpv
+mpv
 # nautilus
 # gnome-disk-utility
 noto-fonts
@@ -154,6 +154,7 @@ gimp
 git
 grub
 hyprpolkitagent
+intel-media-driver
 intel-ucode
 iputils
 jdk-openjdk
@@ -179,15 +180,19 @@ python-black
 python-lsp-server
 python-pyflakes
 shfmt
+# spotifyd
+spotify-player
 stow
 sudo
 telegram-desktop
 texlive
 tree
 usbutils
-vlc
+# vlc
 wakeonlan
 wtype
+yt-dlp
+ytfzf
 zsh
 zsh-autosuggestions
 zsh-completions

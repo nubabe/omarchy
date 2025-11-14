@@ -10,5 +10,6 @@ hyprmon-bin
 java21-openjfx-bin
 mixing-station
 opensoundmeter
+youtube-tui
 
 # packages added by the install script

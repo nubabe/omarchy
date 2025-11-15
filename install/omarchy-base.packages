@@ -143,6 +143,8 @@ base
 base-devel
 bind-tools
 cava
+cmake
+cpio
 curl
 easyeffects
 efibootmgr

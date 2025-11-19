@@ -146,6 +146,7 @@ cava
 cmake
 cpio
 curl
+dnsmasq
 easyeffects
 efibootmgr
 fuse-exfat

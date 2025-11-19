@@ -4,12 +4,15 @@ brave-bin
 bluej
 cljfmt-bin
 companion
+displaylink
+evdi-dkms
 exercism-bin
 freeshow-bin
 hyprmon-bin
 java21-openjfx-bin
 mixing-station
 opensoundmeter
+seafile
 youtube-tui
 
 # packages added by the install script
